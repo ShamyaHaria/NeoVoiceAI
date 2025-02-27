@@ -11,7 +11,7 @@ OpenAI Integration:
 The assistant incorporates OpenAI's GPT-3.5 model for generating contextually relevant responses to user queries, making it capable of engaging in dynamic and context-aware conversations.
 Web Browsing:
 
-Users can instruct Xander AI to open specific websites, including popular platforms like YouTube, Google, Gmail, and custom sites.
+Users can instruct NeoVoice AI to open specific websites, including popular platforms like YouTube, Google, Gmail, and custom sites.
 Music Playback:
 
 NeoVoice AI can play music specified by the user, provided the file path is correctly configured.
